@@ -1,0 +1,9 @@
+{
+	"name": "mdwdops-adf-dev-parks",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fb2ae4f5-0c2c-4287-95ad-fcf5eec7bfc5",
+		"tenantId": "16b3c013-d300-468d-ac64-7eda0820b6d3"
+	}
+}
